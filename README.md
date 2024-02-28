@@ -13,6 +13,8 @@ To access the resources, simply clone or download this repository to your local 
 
 ```bash
 git clone https://github.com/your-username/Introduction-to-Git-GitHub.git
+```
+
 Feel free to explore the files, refer to the cheat sheet whenever needed, and review the presentation slides at your own pace.
 
 ## Contributing
