@@ -12,7 +12,7 @@ Welcome to the repository for resources on getting started with Git and GitHub! 
 To access the resources, simply clone or download this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Introduction-to-Git-GitHub.git
+git clone https://github.com/codingclubsvit/Introduction-to-Git-GitHub.git
 ```
 
 Feel free to explore the files, refer to the cheat sheet whenever needed, and review the presentation slides at your own pace.
